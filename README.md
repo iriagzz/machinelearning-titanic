@@ -9,7 +9,7 @@ The competition is simple: use machine learning to create a model that predicts 
 
 
 
-![](3si1.gif)
+![](IMG/3si1.gif "titanic_fun")
 
 
 
